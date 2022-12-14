@@ -1,14 +1,28 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="" group-title="Radio",[EG] Quran Kareem Cairo
+#EXTINF:-1, tvg-logo="https://cdn-radiotime-logos.tunein.com/s130556g.png" group-title="Radio",[EG] Quran Kareem Cairo
 http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/09/Radio-Tram-220x108.jpg" group-title="Radio",[EG] Radio Tram
+http://streaming.radionomy.com/RadioTram?extReferer=http%3a%2f%2fwww.radiotram.com%2f&ad=radiono5?type=.mp3
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/1wkXSH2IUHQfvtsXh0boaH8w-WaJlAH7sUiS9mPOJl6kCs21AbrfjqaZkXqXKVqx1A=w300" group-title="Radio",[EG] Radio Masr 88.7
 http://streaming.radio.co/scc13a6b96/listen
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_96a3813381e1bc7e49f4896495f6b65f/logo200.jpg?size=200" group-title="Radio",[EG] Nile FM 104.2
+https://audio.nrpstream.com/listen/nile_fm/radio.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s143123q.png" group-title="Radio",[EG] Mega FM 92.7
+https://stream.streema.com/?url=http://nebula.shoutca.st:8211/stream
 #EXTINF:-1 tvg-logo="http://www.9090.fm/images/favicon.png" group-title="Radio",[EG] Radio 9090 90.9
 http://9090streaming.mobtada.com/9090FMEGYPT
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/70m781o.png" group-title="Radio",[EG] 105.7 AZUL POP FM
 https://azulpop.ozelip.com/8006/stream
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Towfz0n7jDw/maxresdefault.jpg" group-title="Radio",[LB] Delta FM
+https://radiodelta.fm/mp3
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/74876.v12.png" group-title="Radio",[LB] Radio Reve
+https://eu9.fastcast4u.com/proxy/revelebanon?mp=/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nnhlKiH.jpg" group-title="Radio",[LB] M Radio Lebanon
 https://stream.zeno.fm/nuf630msh98uv
+#EXTINF:-1 tvg-logo="https//cdn.onlineradiobox.com/img/l/8/40428.v6.png" group-title="Radio",[LB] Jabal Lebnan
+https://onlineradiobox.com/json/lb/jaballebnan/play?platform=web
+#EXTINF:-1 tvg-logo="https://top-radio.org/wp-content/uploads/logo/fFXKq3KPJm.jpg" group-title="Radio",[LB] Beirut Nights
+https://beirutnights.com/live.pls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT3zGP3/cover.png" group-title="Radio",[LB] Al Bal Radio
 https://albal-lbnet2.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Radio",[LB] Aghani Aghani
@@ -17,6 +31,8 @@ http://cdn.nrjaudio.fm/audio1/lb/1/mp3_128.mp3
 https://23543.live.streamtheworld.com/MIXFM_LEBANONAAC_SC
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1576301051.jpg" group-title="Radio",[LB] Sham FM Stream
 http://radioshamfm.grtvstream.com:8400/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/3c/4d/110248/1/c44.png" group-title="Radio",[MA] NRJ Maroc
+https://scdn.nrjaudio.fm/adwz1/ma/55820/aac_64.mp3?origine=radio.net
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KXLT-FM.jpg" group-title="Radio",[US] 107.9 LITE FM
 https://live.wostreaming.net/direct/townsquare-kxltfmaac-ibc3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDOJ0XW.jpg" group-title="Radio",[US] #1 HITS 80s
@@ -41,3 +57,5 @@ https://stream.revma.ihrhls.com/zc2740
 https://stream.radio.co/s5c993fa61/listen
 #EXTINF:-1 tvg-logo="" group-title="Radio",[US] 977 Today's Hits
 https://24503.live.streamtheworld.com/977_HITSAAC_SC
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1651249906.jpg" group-title="ARABIC Radio - radio.pervii.com", Arab Monte Carlo Doualiya
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
