@@ -1,13 +1,12 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 #EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ZbqyTyS1o0M&ab_channel=%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3
 
 #EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
-https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas1/index.m3u8?token=9ed0989cf4d230862a278e41da1fc11b2c9cbc74-fda401073c1e00299aee6028a543670a-1674319547-1674308747
-https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas1/tracks-v1a1/mono.m3u8?token=9ed0989cf4d230862a278e41da1fc11b2c9cbc74-fda401073c1e00299aee6028a543670a-1674319547-1674308747
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
 
 #EXTINF:-1 tvg-id="AlKahera WalNas 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/sIrsKX8qXHA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GdKbHsjZW0w
 
 #EXTINF:-1 tvg-id="AlKahera WalNas 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 2
 https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas2/index.m3u8?token=1e83e36f32b901108740009ee020a1947420e3b1-cf8a6e0b28869307b830e530ad8b3266-1674319346-1674308546
@@ -17,11 +16,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WTAE54FaWC4
 #EXTINF:-1 tvg-id="LBC" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/lbc.png?v=4" group-title="Movies",LBC
 https://dai-gcp-eu-west-1-1.daiconnect.com/live/hls/rotana/lbs-demo/.m3u8
 #EXTINF:-1 tvg-id="ART Aflam 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_1.jpg?v=6" group-title="Movies",ART Aflam 1
-https://iptv.ipslow.com/tv182_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=554189e8c0e8b8474c8397ce74787c7c1fe58fa9-92235887d54b7c3b642fee4e3eb8a526-1674306583-1674295783
+https://iptv.ipslow.com/tv190_www.elahmad.com_art_aflam1/index.m3u8?token=60ad0f2e94922161844d2bdfe233dd311435b7d4-b4a54788380a8e6a215f6a6981f7f0cb-1679084529-1679073729
 #EXTINF:-1 tvg-id="ART Aflam 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_2.jpg?v=6" group-title="Movies",ART Aflam 2
-https://iptv.ipslow.com/tv182_www.elahmad.com_art_aflam2/index.m3u8?token=67b50194f09fd16bfba8086ad88181929e49b614-021e485c3e2b7d737d7d4aebdfa2e4aa-1674306654-1674295854
+https://iptv.ipslow.com/tv190_www.elahmad.com_art_aflam2/tracks-v1a1/mono.m3u8?token=6e88c6ae8ae9e8caaf0a8a9a02cf0ac1c7b3b5f5-b5149ff5e2d89ec1cfcb04caa1525651-1679084443-1679073643
 #EXTINF:-1 tvg-id="ART Cinema" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_cinema.jpg?v=6" group-title="Movies",ART Cinema
-https://iptv.ipslow.com/tv182_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=6a3673ceee254666d68e96201731683143fdbd5c-bfd81a48f8e7597f47a9b42285429e3b-1674306683-1674295883
+https://iptv.ipslow.com/tv190_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=6077203fa3dd6dc912b8fce1cd7b3d4e9cd56c31-0d7ca789cbb415852f11d80316aeb424-1679084348-1679073548
 #EXTINF:-1 tvg-id="Rotana Cinema" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png?v=3" group-title="Movies",Rotana Cinema
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Cinema KSA" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png?v=3" group-title="Movies",Rotana Cinema KSA
@@ -37,11 +36,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-america
 #EXTINF:-1 tvg-id="Nelly we Sherihan" tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/thumbs/Nelly-Wu-Sherehan/Nelly---Sherihan-Thumb/original/Nelly---Sherihan-Thumb.jpg?height=253&width=450&croppingPoint=&version=1&type=mozjpeg" group-title="Series",Nelly we Sherihan
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/-XMLsyyHbBQ
 #EXTINF:-1 tvg-id="Nile Cinema" tvg-logo="http://www.elshobak.com/images/watch-nile-cinema-online-free.jpg" group-title="Movies",Nile Cinema
-https://elahmad.ipslow.com/tv182_www.elahmad.com_nile_cinema/index.m3u8?token=d3f3c4ccd9fdd29ee9c6068c725bb072d488e427-f8d2443b6b1333da3b107848587c6665-1674320944-1674310144
+https://elahmad.ipslow.com/tv190_www.elahmad.com_nile_cinema/tracks-v1a1/mono.m3u8?token=2d241844d9ae40d904142cc05f812ec4044ba688-e21d02d7fed8f3319df41445c26b20ec-1679084871-1679074071
 #EXTINF:-1 tvg-id="Nile Comedy" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nilecomedy.jpg?v=6" group-title="Movies",Cima
 https://elahmad.ipslow.com/tv182_www.elahmad.com_nile_comedy/index.m3u8?token=9d1406cfc9bbd1eb4044024338c311342207497a-7ac22dc69867703191ac3f1e4046f450-1674321014-1674310214
 #EXTINF:-1 tvg-id="Alhayah Drama" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ar/cim_303322.png?v=6" group-title="Movies",Cima (720p)
-
+https://www.wsla.top/streams/11_.m3u8
 #EXTINF:-1 tvg-id="Alhayah Drama" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6" group-title="Movies",Alhayah Drama (720p)
 https://iptv.ipslow.com/tv182_www.elahmad.com_alhayat_drama/index.m3u8?token=a1d08c7ed32441e97dd3c8742c7e462220b2dc9a-0fd56701290b3210b875853379bfa639-1674319685-1674308885
 
