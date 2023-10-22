@@ -1,26 +1,12 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
-#EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ZbqyTyS1o0M&ab_channel=%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3
-
-#EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
-
-#EXTINF:-1 tvg-id="AlKahera WalNas 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GdKbHsjZW0w
-
-#EXTINF:-1 tvg-id="AlKahera WalNas 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 2
-https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas2/index.m3u8?token=1e83e36f32b901108740009ee020a1947420e3b1-cf8a6e0b28869307b830e530ad8b3266-1674319346-1674308546
-
-#EXTINF:-1 tvg-id="Bee Movies" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-eJ9fZC2dCgNGM1jcetVGGN5eaBWBju89maDWn=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",Bee Movies
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WTAE54FaWC4
-#EXTINF:-1 tvg-id="LBC" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/lbc.png?v=4" group-title="Movies",LBC
-https://dai-gcp-eu-west-1-1.daiconnect.com/live/hls/rotana/lbs-demo/.m3u8
-#EXTINF:-1 tvg-id="ART Aflam 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_1.jpg?v=6" group-title="Movies",ART Aflam 1
-https://iptv.ipslow.com/tv190_www.elahmad.com_art_aflam1/index.m3u8?token=60ad0f2e94922161844d2bdfe233dd311435b7d4-b4a54788380a8e6a215f6a6981f7f0cb-1679084529-1679073729
-#EXTINF:-1 tvg-id="ART Aflam 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_aflam_2.jpg?v=6" group-title="Movies",ART Aflam 2
-https://iptv.ipslow.com/tv190_www.elahmad.com_art_aflam2/tracks-v1a1/mono.m3u8?token=6e88c6ae8ae9e8caaf0a8a9a02cf0ac1c7b3b5f5-b5149ff5e2d89ec1cfcb04caa1525651-1679084443-1679073643
-#EXTINF:-1 tvg-id="ART Cinema" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/art_cinema.jpg?v=6" group-title="Movies",ART Cinema
-https://iptv.ipslow.com/tv190_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=6077203fa3dd6dc912b8fce1cd7b3d4e9cd56c31-0d7ca789cbb415852f11d80316aeb424-1679084348-1679073548
+#EXTINF:-1 tvg-id="Aljazeera Ar" tvg-logo="https://yt3.googleusercontent.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera
+http://free.fullspeed.tv/iptv-query?streaming-ip=hhttps://www.youtube.com/watch?v=bNyUyrR0PHo
+#EXTINF:-1 tvg-id="Aljazeera  Mubasher" tvg-logo="https://yt3.googleusercontent.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera Mubasher
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=eksOMqVMINo
+#EXTINF:-1 tvg-id="Aljazeera En" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera En
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gCNeDWCI0vo
+#EXTINF:-1 tvg-id="Aljazeera Documentary" tvg-logo="https://yt3.googleusercontent.com/QE_AuTe5lJPa6FzxNCSAxi0wUmnJGKTj-zUk7mtzN2FwJN2ajVPFgBtzOFoi0fniyXP0JC3e9Fg=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera Documentary
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=TiPYdMXt_XI
 #EXTINF:-1 tvg-id="Rotana Cinema" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png?v=3" group-title="Movies",Rotana Cinema
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Cinema KSA" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png?v=3" group-title="Movies",Rotana Cinema KSA
@@ -33,76 +19,9 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-aflam-plus/
 #EXTINF:-1 tvg-id="Rotana America" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/america.png?v=6" group-title="Movies",Rotana America
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-america/
-#EXTINF:-1 tvg-id="Nelly we Sherihan" tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/thumbs/Nelly-Wu-Sherehan/Nelly---Sherihan-Thumb/original/Nelly---Sherihan-Thumb.jpg?height=253&width=450&croppingPoint=&version=1&type=mozjpeg" group-title="Series",Nelly we Sherihan
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/-XMLsyyHbBQ
-#EXTINF:-1 tvg-id="Nile Cinema" tvg-logo="http://www.elshobak.com/images/watch-nile-cinema-online-free.jpg" group-title="Movies",Nile Cinema
-https://elahmad.ipslow.com/tv190_www.elahmad.com_nile_cinema/tracks-v1a1/mono.m3u8?token=2d241844d9ae40d904142cc05f812ec4044ba688-e21d02d7fed8f3319df41445c26b20ec-1679084871-1679074071
-#EXTINF:-1 tvg-id="Nile Comedy" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nilecomedy.jpg?v=6" group-title="Movies",Cima
-https://elahmad.ipslow.com/tv182_www.elahmad.com_nile_comedy/index.m3u8?token=9d1406cfc9bbd1eb4044024338c311342207497a-7ac22dc69867703191ac3f1e4046f450-1674321014-1674310214
-#EXTINF:-1 tvg-id="Alhayah Drama" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ar/cim_303322.png?v=6" group-title="Movies",Cima (720p)
-https://iptv.ipslow.com/tv190_www.elahmad.com_alhayat_drama/tracks-v1a1/mono.m3u8?token=508a737452037a016c2f864c94509a0c391dc340-447ecfc81757c87bb5385650399fe4f5-1679085653-1679074853
-#EXTINF:-1 tvg-id="Alhayah Drama" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6" group-title="Movies",Alhayah Drama (720p)
-https://iptv.ipslow.com/tv182_www.elahmad.com_alhayat_drama/index.m3u8?token=a1d08c7ed32441e97dd3c8742c7e462220b2dc9a-0fd56701290b3210b875853379bfa639-1674319685-1674308885
-
-#EXTINF:-1 tvg-id="Alhayah Drama" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6" group-title="Movies",Alhayah Drama (720p)
-https://muutube.sonmezalp.com/proxy.php/https://mysat-live.ercdn.net/alhayatdrama/alhayatdrama_576p.m3u8?st=Ue-OlLkR24OLaIEOOx8K3A&e=1674352497
-
-#EXTINF:-1 tvg-id="MBC MAX" tvg-logo="https://www.mbc.net/en/corporate/about-us/main/06/imageBinary/e1f2bbb30e9f2c4ccd2e3aeabe3ba7dc434be650/max%20(1).jpg" group-title="Movies",MBC MAX (720p)
-http://62.182.82.104/MBC_Max/index.m3u8?token=test
-#EXTINF:-1 tvg-id="MBC 2" tvg-logo="http://2.bp.blogspot.com/-DAFlUVylB_A/UZkAnXw9iII/AAAAAAAAAMg/E2O_AvYUjfs/s1600/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9+%D9%82%D9%86%D8%A7%D8%A9+mbc2+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png" group-title="Movies",MBC 2
-https://iptv.ipslow.com/tv182_www.elahmad.com_mbc_2/index.m3u8?token=e9efdf7041222e8b9d6e3fe1964d28d0511aa3d8-fc8ef6987959d4cf50992471f2e2962e-1674307077-1674296277
-
-#EXTINF:-1 tvg-id="Alhayah Drama.eg" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6" group-title="Movies",Alhayah Drama (720p)
-https://muutube.sonmezalp.com/proxy.php/https://mysat-live.ercdn.net/alhayatdrama/alhayatdrama_576p.m3u8?st=8VKV1dc8DBFFmmNok26gfg&e=1672799363
-#EXTINF:-1 tvg-id="Alhayah Drama.eg" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6" group-title="Movies",Alhayah Drama (720p)
-https://muutube.sonmezalp.com/proxy.php/http://www.alshasha.live/2022/11/al-hayah-drama-live.html
-#EXTINF:-1 tvg-id="MBC2.sa" tvg-logo="https://yt3.ggpht.com/a/AATXAJxE0nz0iU8qdcycL7kPRPfBQtIUOpBUJV2Wxg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MBC2 (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.wasla-tv.com/2021/03/MBC2-Live-Streaming.html
-
-#EXTINF:-1 tvg-id="Ch1.eg" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almasriya_aloula.jpg?v=6" group-title="Movies",Ch1 (720p)
-https://tv.ipslow.com/tv182_www.elahmad.com_egypt_channel/index.m3u8?token=88132087927c49b5ad39655bcd274021dccc24f2-2b813e7cf04aa1c3ae9b650dcc477704-1674318992-1674308192
-#EXTINF:-1 tvg-id="Ch1.eg" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almasriya_aloula.jpg?v=6" group-title="Movies",Ch1 (720p)
-https://tv.ipslow.com/tv182_www.elahmad.com_egypt_channel/tracks-v1a1/mono.m3u8?token=88132087927c49b5ad39655bcd274021dccc24f2-2b813e7cf04aa1c3ae9b650dcc477704-1674318992-1674308192
-
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwarabic/live
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-logo="https://www.9090.fm/images/logo.png" group-title="Undefined",El Radio 9090 FM (480p)
-https://9090video.mobtada.com/live/9090ONLINE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-logo="https://i.imgur.com/wVpTbzu.png" group-title="News",eXtra News (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
-
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/512px-MBC_Action_TV_Channel_Logo.png" group-title="Movies",MBC Action (1080p) [Geo-blocked]
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="General",MBC Drama KSA (1080p)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/512px-MBC_Masr_Logo.png" group-title="General",MBC Masr 1 (1080p) [Geo-blocked]
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-logo="https://i.imgur.com/9S96PrQ.png" group-title="Undefined",MBC Masr 2 (1080p) [Geo-blocked]
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/512px-MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Movies",MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="Movies",Rotana Cinema (1080p)
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Future.lb" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="General",Future TV (1080p)
-https://channal-code.herokuapp.com/https://mysat-live.ercdn.net/futureint/futureint.m3u8?st=AreQaggIZiS0A8OAc_tYqg&e=1662504167
-#EXTINF:-1 tvg-id="LBC.lb" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="General",LBC (1080p)
-http://iptv.ipslow.com/tv36_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ch1.eg" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="General",Ch1
-http://iptv.ipslow.com/tv36_www.elahmad.com_egypt_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ch2.eg" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="General",Ch2
-http://iptv.ipslow.com/tv36_www.elahmad.com_al_thaniya_eg/tracks-v1a1/mono.m3u8
