@@ -20,7 +20,7 @@ https://rotana.net/ar/live-aflam-plus#/live/rotana_D7kwbs
 #EXTINF:-1 tvg-id="Romance" tvg-logo="https://imgsrv.rotana.net/channels/romance.png?w=100&h=100&fit=max" group-title="Movies",Romance
 https://rotana.net/ar/live-aflam-plus#/live/rotana-romance
 #EXTINF:-1 tvg-id="Sayedt Elshasha" tvg-logo="https://imgsrv.rotana.net/channels/sydtelshasha.png?w=100&h=100&fit=max" group-title="Movies",Sayedt Elshasha
-https://rotana.net/ar/live-aflam-plus#/live/rotana_Sydtelshasha
+https://daiconnect.com/live/hls/rotana/selshasha/9b6791c42eaf8141949877e96995ed30/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_Sydtelshasha&requestuid=c4b61eef-3c7b-4aba-a571-c702662a5cfd
 #EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
 https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_LBC&requestuid=a34eafce-9d41-43ae-be97-d193219ca273
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
