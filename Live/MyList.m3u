@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Aljazeera Ar" tvg-logo="https://yt3.googleusercontent.com/LViWsQpkUN7p22xcW5kPzWai-HzWlaszpsEP3jQjnIyXi2G_gaZz7zosE1_vNOPrrdvzKYEryA=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera
 https://www.youtube.com/watch?v=bNyUyrR0PHo
 #EXTINF:-1 tvg-id="Aljazeera Mubasher" tvg-logo="https://yt3.googleusercontent.com/MtgDGUAxBJlNefQ03GXtV8aXM9VjVnxhzgM3TD1V3bJmZdrGQKxp9U1s2dO324opc8LZXKI88ts=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera Mubasher
-https://www.youtube.com/live/eksOMqVMINo?si=MkJuD9jLg3fT9m_R
+https://www.youtube.com/watch?v=eksOMqVMINo
 #EXTINF:-1 tvg-id="Aljazeera En" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera En
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 #EXTINF:-1 tvg-id="Aljazeera Documentary" tvg-logo="https://yt3.googleusercontent.com/QE_AuTe5lJPa6FzxNCSAxi0wUmnJGKTj-zUk7mtzN2FwJN2ajVPFgBtzOFoi0fniyXP0JC3e9Fg=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera Documentary
@@ -19,6 +19,8 @@ https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rotana.net/live-aflam-plus/
 #EXTINF:-1 tvg-id="Rotana America" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/america.png?v=6" group-title="Movies",Rotana America
 https://rotana.net/live-america/
+#EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
+https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_LBC&requestuid=a34eafce-9d41-43ae-be97-d193219ca273
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (1080p)
