@@ -11,6 +11,12 @@ https://www.youtube.com/watch?v=eksOMqVMINo
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 #EXTINF:-1 tvg-id="Aljazeera Documentary" tvg-logo="https://yt3.googleusercontent.com/QE_AuTe5lJPa6FzxNCSAxi0wUmnJGKTj-zUk7mtzN2FwJN2ajVPFgBtzOFoi0fniyXP0JC3e9Fg=s176-c-k-c0x00ffffff-no-rj" group-title="News",Aljazeera Documentary
 https://www.youtube.com/watch?v=TiPYdMXt_XI
+#EXTINF:-1 tvg-id="Art Aflam1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hZCe-gSiUB9i5vWdl5FF9wAAAA%26pid%3DApi&f=1&ipt=2da55ce6c5a07cee698a25e3980e698ddd2fa736dac352092314dab31a834dce&ipo=images" group-title="Movies",Art Aflam1
+https://tv.ipslow.com/tv481_www.elahmad.com_art_aflam1/tracks-v1a1/mono.m3u8?token=820e6ff072aa279e572ab52659b7100fe9442146-ee08c95cbddba00969d5dfed22621803-1697997136-1697986336
+#EXTINF:-1 tvg-id="Art Aflam2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.dUbNna_IYic_P4JrjPRgagAAAA%26pid%3DApi&f=1&ipt=07cd5667abc8314615a2ddcc16485c6de2bbc8a72cdff7fc403da4a31e01bb66&ipo=images" group-title="Movies",Art Aflam2
+https://tv.ipslow.com/tv481_www.elahmad.com_art_aflam2/tracks-v1a1/mono.m3u8?token=a3709c55fc2173c36ef263842233e962e554e98d-ad0cc9ccb2aa929a0452512ee0ac43a9-1697997020-1697986220
+#EXTINF:-1 tvg-id="Art Cinema" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.HC0VxvMfdgrIRyJRGV6e8AHaIH%26pid%3DApi&f=1&ipt=0d879837fec5950ecd2441f103deb16108791c21a3be973526d4c9b99ff47b43&ipo=images" group-title="Movies",Art Cinema
+https://tv.ipslow.com/tv481_www.elahmad.com_art_cinema/tracks-v1a1/mono.m3u8?token=a6f9d544951e4cbf1804a083ea71540cb4b820b6-e9df6ecda4b03fedfac75e52d61854b2-1697996714-1697985914
 #EXTINF:-1 tvg-id="Rotana Cinema" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png?v=3" group-title="Movies",Rotana Cinema
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rotana Cinema KSA" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png?v=3" group-title="Movies",Rotana Cinema KSA
@@ -28,8 +34,7 @@ https://daiconnect.com/live/hls/rotana/selshasha/9b6791c42eaf8141949877e96995ed3
 #EXTINF:-1 tvg-id="Rotana HD+" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2Fb1piasb.png&f=1&nofb=1&ipt=9ba9415b4865ca3d7a16e2ac4933507ce32aed1e5516dd617303203a9a3d3bbb&ipo=images" group-title="Movies",Rotana HD+
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:-1 tvg-id="Rotana Aflam+ HD" tvg-logo="https://imgsrv.rotana.net/channels/1688402547.webp?w=100&h=100&fit=max" group-title="Movies",Rotana Aflam+ HD
-https://playback2.akamaized.net/streams/29325975_9091664_lsiuuqsfmijhc1d60q7_1/master.m3u8?dw=80&hdnts=exp=1697984778~acl=/streams/29325975_9091664_lsiuuqsfmijhc1d60q7_1/master.m3u8*~hmac=ad1edd0110d6c0e1bac0a6dde85ef3902c411e99b0c2d88ecc26e1eba6b6fa1f
-#EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
+https://playback2.akamaized.net/streams/29325975_9091664_lsiuuqsfmijhc1d60q7_1/exp=1698071768~acl=%2f*~data=hdntl~hmac=a3322dc492c92da7e6f486b6de8d41a828be62f288db17ca26a9cd783d3dd285/media/29325975_9091664_lsiuuqsfmijhc1d60q7_1@5256000p.m3u8?dw=80&ts=1697983200#EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
 https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_LBC&requestuid=a34eafce-9d41-43ae-be97-d193219ca273
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
