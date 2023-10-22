@@ -16,9 +16,9 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 #EXTINF:-1 tvg-id="Rotana Comedy" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png?v=4" group-title="Movies",Rotana Comedy
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy" tvg-logo="https://imgsrv.rotana.net/channels/d7kwbs.png?w=100&h=100&fit=max" group-title="Movies",Comedy
-https://rotana.net/ar/channels#/live/rotana_D7kwbs
+https://daiconnect.com/live/hls/rotana/dwbass/ce135b60efb201e642b7aa7bb9322979/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana_D7kwbs&requestuid=2cfa9a01-400e-46e3-a9ca-76761c4d2232
 #EXTINF:-1 tvg-id="Romance" tvg-logo="https://imgsrv.rotana.net/channels/romance.png?w=100&h=100&fit=max" group-title="Movies",Romance
-https://rotana.net/ar/channels#/live/rotana-romance
+https://daiconnect.com/live/hls/rotana/romance/ba29a40495cb227f062ef0f8ee5ae10c/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana-romance&requestuid=6e59e636-156b-40e3-ae85-ae1c892c304a
 #EXTINF:-1 tvg-id="Sayedt Elshasha" tvg-logo="https://imgsrv.rotana.net/channels/sydtelshasha.png?w=100&h=100&fit=max" group-title="Movies",Sayedt Elshasha
 https://daiconnect.com/live/hls/rotana/selshasha/9b6791c42eaf8141949877e96995ed30/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_Sydtelshasha&requestuid=c4b61eef-3c7b-4aba-a571-c702662a5cfd
 #EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
