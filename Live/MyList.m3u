@@ -21,6 +21,10 @@ https://daiconnect.com/live/hls/rotana/dwbass/ce135b60efb201e642b7aa7bb9322979/.
 https://daiconnect.com/live/hls/rotana/romance/ba29a40495cb227f062ef0f8ee5ae10c/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Fchannels%23%2Flive%2Frotana-romance&requestuid=6e59e636-156b-40e3-ae85-ae1c892c304a
 #EXTINF:-1 tvg-id="Sayedt Elshasha" tvg-logo="https://imgsrv.rotana.net/channels/sydtelshasha.png?w=100&h=100&fit=max" group-title="Movies",Sayedt Elshasha
 https://daiconnect.com/live/hls/rotana/selshasha/9b6791c42eaf8141949877e96995ed30/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_Sydtelshasha&requestuid=c4b61eef-3c7b-4aba-a571-c702662a5cfd
+#EXTINF:-1 tvg-id="Rotana HD+" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2Fb1piasb.png&f=1&nofb=1&ipt=9ba9415b4865ca3d7a16e2ac4933507ce32aed1e5516dd617303203a9a3d3bbb&ipo=images" group-title="Movies",Rotana HD+
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
+#EXTINF:-1 tvg-id="Rotana Aflam+ HD" tvg-logo="https://imgsrv.rotana.net/channels/1688402547.webp?w=100&h=100&fit=max" group-title="Movies",Rotana Aflam+ HD
+https://playback2.akamaized.net/streams/29325975_9091664_lsiuuqsfmijhc1d60q7_1/exp=1698063699~acl=%2f*~data=hdntl~hmac=55ce8160b36829d457bdbbec70f0f852602e3c3fcc86857f6da0f54a1cc71ddb/media/29325975_9091664_lsiuuqsfmijhc1d60q7_1@1756000p.m3u8?dw=80&ts=1697976000
 #EXTINF:-1 tvg-id="LBC" tvg-logo="https://imgsrv.rotana.net/channels/1688402500.webp?w=100&h=100&fit=max" group-title="General",LBC (1080p)
 https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?USrGDPRC=&UUSPriv=1N--&UCOPPA=0&ApSrcURL=https%3A%2F%2Frotana.net%2Far%2Flive-aflam-plus%23%2Flive%2Frotana_LBC&requestuid=a34eafce-9d41-43ae-be97-d193219ca273
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
