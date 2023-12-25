@@ -3,9 +3,9 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
 
 #EXTINF:-1 tvg-id="Elshasha Romance" tvg-logo="" group-title="Movies",Elshasha Romance (1080p)
-https://cdn-lj-01.perception.tv/shls/e0b6a264116a4358a0bea8c49ff85a4f/cb477585f5c74e628f3ca7fbdde1cc19/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
+https://cdn-lj-02.perception.tv/shls/bbdfacffb35b4049828493f33accf51d/33fa66e9ea5c43a395de3d77e5236894/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Best Movies" tvg-logo="" group-title="Movies",Elshasha Best Movies (1080p)
-https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=5ca3391518764ba39a6ed31445c94088&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
+https://cdn-lj-02.perception.tv/shls/b3e3ed1f8d5e412cba9da1f32a8513eb/f8d337c9497046cf8a86acf8d22c319a/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
 #EXTINF:-1 tvg-id="Elshasha Ahmed Ramzy" tvg-logo="" group-title="Movies",Elshasha Ahmed Ramzy (1080p)
 https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=95d5dda68a564ea58a7107bdba0497dc&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2200001
 #EXTINF:-1 tvg-id="Elshasha Farid Shwky" tvg-logo="" group-title="Movies",Elshasha Farid Shwky (1080p)
