@@ -12,6 +12,18 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/sIrsKX8qXHA
 #EXTINF:-1 tvg-id="AlKahera WalNas 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 2
 https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas2/index.m3u8?token=1e83e36f32b901108740009ee020a1947420e3b1-cf8a6e0b28869307b830e530ad8b3266-1674319346-1674308546
 
+#EXTINF:-1 tvg-id="Movies" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Fmovies_logo%2Foriginal%2Fmovies_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Movies",Shahid Movies (1080p)
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Movies feel good" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FBedour3%2FLogo_Feel_Good_Movies%2Foriginal%2FLogo_Feel_Good_Movies.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Movies",Shahid Movies feel good (1080p)
+https://cdxaws-ak.akamaized.net/v1/channel/Feel_Good_Movies/index_hls.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Movies Action" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2Flogo_movies_action%2Foriginal%2Flogo_movies_action.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Movies",Shahid Movies Action (1080p)
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8?aws.manifestfilter=video_height:144-720
+
+#EXTINF:-1 tvg-id="Aflam" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2FAmjad%2Fjun%2FAflam1%2Foriginal%2FAflam1.png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Movies",Shahid Aflam (1080p)
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?aws.manifestfilter=video_height:144-720
+
 #EXTINF:-1 tvg-id="Bee Movies" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-eJ9fZC2dCgNGM1jcetVGGN5eaBWBju89maDWn=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",Bee Movies
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WTAE54FaWC4
 #EXTINF:-1 tvg-id="LBC" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/lbc.png?v=4" group-title="Movies",LBC
