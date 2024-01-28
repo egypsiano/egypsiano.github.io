@@ -1,7 +1,16 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
 #EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
-
+#EXTINF:-1 tvg-id="JS En" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7zaMqrWbwX79V08__ihIrgHaEK%26pid%3DApi&f=1&ipt=81d4cc989cc1b6824e20f6f5244bf6e785a7550a9fc5e5f18268e4af6c807d2e&ipo=images" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="JS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.H2MkBlsIfXqJvuXVdjx1ewHaMV%26pid%3DApi&f=1&ipt=aa888e78dc87c50d5bc37615f183c3e4c50e55c9fe39fef37c7ff187485a2235&ipo=images" group-title="News",Al Jazeera 
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="LBC" tvg-logo="" group-title="G",LBC HD
+https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?requestuid=35903d49-1c05-4338-bbfb-f4a843f9b49c
+#EXTINF:-1 tvg-id="ONE MTV Lebanon" tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" group-title="Music",ONE MTV Lebanon
+https://live.3cd.io/v1/broadcast/one/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV Lebanon" tvg-logo="https://www.mtv.com.lb/Content/images/logo-mtv.png" group-title="Music",MTV Lebanon
+https://live.3cd.io/v1/broadcast/mtv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Elshasha Romance" tvg-logo="" group-title="Movies",Elshasha Romance (1080p)
 https://cdn-lj-02.perception.tv/shls/bbdfacffb35b4049828493f33accf51d/33fa66e9ea5c43a395de3d77e5236894/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Best Movies" tvg-logo="" group-title="Movies",Elshasha Best Movies (1080p)
