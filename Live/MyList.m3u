@@ -3,8 +3,16 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZbqyTyS1o0M
 #EXTINF:-1 tvg-id="JS En" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7zaMqrWbwX79V08__ihIrgHaEK%26pid%3DApi&f=1&ipt=81d4cc989cc1b6824e20f6f5244bf6e785a7550a9fc5e5f18268e4af6c807d2e&ipo=images" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="JS" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.H2MkBlsIfXqJvuXVdjx1ewHaMV%26pid%3DApi&f=1&ipt=aa888e78dc87c50d5bc37615f183c3e4c50e55c9fe39fef37c7ff187485a2235&ipo=images" group-title="News",Al Jazeera 
+#EXTINF:-1 tvg-id="Al Jazeera English En" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7zaMqrWbwX79V08__ihIrgHaEK%26pid%3DApi&f=1&ipt=81d4cc989cc1b6824e20f6f5244bf6e785a7550a9fc5e5f18268e4af6c807d2e&ipo=images" group-title="News",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English En" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7zaMqrWbwX79V08__ihIrgHaEK%26pid%3DApi&f=1&ipt=81d4cc989cc1b6824e20f6f5244bf6e785a7550a9fc5e5f18268e4af6c807d2e&ipo=images" group-title="News",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.H2MkBlsIfXqJvuXVdjx1ewHaMV%26pid%3DApi&f=1&ipt=aa888e78dc87c50d5bc37615f183c3e4c50e55c9fe39fef37c7ff187485a2235&ipo=images" group-title="News",Al Jazeera 
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.H2MkBlsIfXqJvuXVdjx1ewHaMV%26pid%3DApi&f=1&ipt=aa888e78dc87c50d5bc37615f183c3e4c50e55c9fe39fef37c7ff187485a2235&ipo=images" group-title="News",Al Jazeera 
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.H2MkBlsIfXqJvuXVdjx1ewHaMV%26pid%3DApi&f=1&ipt=aa888e78dc87c50d5bc37615f183c3e4c50e55c9fe39fef37c7ff187485a2235&ipo=images" group-title="News",Al Jazeera 
+https://live-hls-web-aja-fa.getaj.net/alternative/AJA/03.m3u8
 #EXTINF:-1 tvg-id="LBC" tvg-logo="" group-title="G",LBC HD
 https://daiconnect.com/live/hls/rotana/lbc-cdn/b2444485b9b9093d75e4d02deddadfd4/.m3u8?requestuid=35903d49-1c05-4338-bbfb-f4a843f9b49c
 #EXTINF:-1 tvg-id="ONE MTV Lebanon" tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png" group-title="Music",ONE MTV Lebanon
