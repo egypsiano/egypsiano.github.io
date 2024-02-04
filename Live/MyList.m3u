@@ -22,18 +22,17 @@ https://live.3cd.io/v1/broadcast/mtv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Elshasha Romance" tvg-logo="" group-title="Movies",Elshasha Romance (1080p)
 https://cdn-lj-02.perception.tv/shls/bbdfacffb35b4049828493f33accf51d/33fa66e9ea5c43a395de3d77e5236894/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Best Movies" tvg-logo="" group-title="Movies",Elshasha Best Movies (1080p)
-https://cdn-lj-02.perception.tv/shls/9593f72c2c7840258e2064396c169cd6/9c6577e220f5455eb207704c63b1fd75/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
+https://cdn-lj-01.perception.tv/shls/a02a512610aa464488d4b389ea92f124/482f17bec1cf4a6ba4f1e546df7f22b9/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2097153
 #EXTINF:-1 tvg-id="Elshasha Ahmed Ramzy" tvg-logo="" group-title="Movies",Elshasha Ahmed Ramzy (1080p)
-https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=95d5dda68a564ea58a7107bdba0497dc&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2200001
+https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=f30cbb03b835408d9f61a0c7791ee56d&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Farid Shwky" tvg-logo="" group-title="Movies",Elshasha Farid Shwky (1080p)
 https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=1b30a6f307fa4e3f9879d4d7e8de00ca&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Musical" tvg-logo="" group-title="Movies",Elshasha Musical (1080p)
 https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=a2c7f8efe3024e9f80d49cd79bd9f9de&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2200001
 #EXTINF:-1 tvg-id="Elshasha Saydat Alshasha" tvg-logo="" group-title="Movies",Elshasha Saydat Alshasha (1080p)
-https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=2e69e14228334150af377b123d0a1b5c&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2200001
+https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=06f62bcb82a14d79a02600f53b233281&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
 #EXTINF:-1 tvg-id="Elshasha Dehk w bas" tvg-logo="" group-title="Movies",Elshasha Dehk w bas (1080p)
-https://cdn-lj-02.perception.tv/shls/92a7847f9f52402d9f3f38e12facec77/5ae9316f18f54851a80104ad3c37a38a/media.m3u8?client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=3800001
-
+https://player.elshasha.net/Catherine/stream/hls.m3u8?mwk=d5ce0b072ddf40f09aab2292975254a6&client=hlsjs&version=v1.1.3-Fora&v=6&initialBandwidthLimit=2200001
 #EXTINF:-1 tvg-id="AlKahera WalNas 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu8QwTRqJA2NPHZsZN1JeK345uir3eIEw3Vyb-aH=s88-c-k-c0x00ffffff-no-rj" group-title="Movies",AlKahera WalNas 1
 https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas1/index.m3u8?token=9ed0989cf4d230862a278e41da1fc11b2c9cbc74-fda401073c1e00299aee6028a543670a-1674319547-1674308747
 https://elahmad.ipslow.com/tv182_www.elahmad.com_alkaherawalnas1/tracks-v1a1/mono.m3u8?token=9ed0989cf4d230862a278e41da1fc11b2c9cbc74-fda401073c1e00299aee6028a543670a-1674319547-1674308747
