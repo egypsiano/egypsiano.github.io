@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="http://192.168.10.33:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.10.33:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="1.etv" channel-id="KMdVcmcrAkSNV1McA3ed8A" channel-number="1" CUID="KMdVcmcrAkSNV1McA3ed8A" tvg-chno="1" tvg-name="REDi GTV" tvg-logo="http://192.168.10.33:8409/iptv/logos/DEB4BB44E4BE3D84AEA298D3BE57301B.jpg" group-title="GTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi GTV
+http://192.168.10.33:8409/iptv/channel/1.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="2.etv" channel-id="gee-11guA0WWuMLVzg7R4A" channel-number="2" CUID="gee-11guA0WWuMLVzg7R4A" tvg-chno="2" tvg-name="REDi2 TV" tvg-logo="http://192.168.10.33:8409/iptv/logos/B0388AC51A94CEF57CE6932E978DE481.jpg" group-title="G" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi2 TV
+http://192.168.10.33:8409/iptv/channel/2.m3u8?mode=segmenter
