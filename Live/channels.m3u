@@ -1,5 +1,19 @@
 #EXTM3U url-tvg="http://192.168.10.33:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.10.33:8409/iptv/xmltv.xml"
-#EXTINF:0 tvg-id="1.etv" channel-id="KMdVcmcrAkSNV1McA3ed8A" channel-number="1" CUID="KMdVcmcrAkSNV1McA3ed8A" tvg-chno="1" tvg-name="REDi GTV" tvg-logo="http://192.168.10.33:8409/iptv/logos/DEB4BB44E4BE3D84AEA298D3BE57301B.jpg" group-title="GTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi GTV
+#EXTINF:0 tvg-id="1.etv" channel-id="KMdVcmcrAkSNV1McA3ed8A" channel-number="1" CUID="KMdVcmcrAkSNV1McA3ed8A" tvg-chno="1" tvg-name="REDi GTV" tvg-logo="http://192.168.10.33:8409/iptv/logos/03600DD6965691A6665F23C2244CE155.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi GTV
 http://192.168.10.33:8409/iptv/channel/1.m3u8?mode=segmenter
-#EXTINF:0 tvg-id="2.etv" channel-id="gee-11guA0WWuMLVzg7R4A" channel-number="2" CUID="gee-11guA0WWuMLVzg7R4A" tvg-chno="2" tvg-name="REDi2 TV" tvg-logo="http://192.168.10.33:8409/iptv/logos/B0388AC51A94CEF57CE6932E978DE481.jpg" group-title="G" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi2 TV
+#EXTINF:0 tvg-id="2.etv" channel-id="gee-11guA0WWuMLVzg7R4A" channel-number="2" CUID="gee-11guA0WWuMLVzg7R4A" tvg-chno="2" tvg-name="REDi2 TV" tvg-logo="http://192.168.10.33:8409/iptv/logos/CE1132338EB8ADFD445FDBFB8FC3C8A6.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi2 TV
 http://192.168.10.33:8409/iptv/channel/2.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="3.etv" channel-id="n3VCesoo60Grxx_AL60ejQ" channel-number="3" CUID="n3VCesoo60Grxx_AL60ejQ" tvg-chno="3" tvg-name="REDi TV Movies" tvg-logo="http://192.168.10.33:8409/iptv/logos/456F4DC3DE714451249DA2BED03042FB.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDi TV Movies
+http://192.168.10.33:8409/iptv/channel/3.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="4.etv" channel-id="VM0AaBD2JEW0uRwIy54h2g" channel-number="4" CUID="VM0AaBD2JEW0uRwIy54h2g" tvg-chno="4" tvg-name="REDiTV Classic" tvg-logo="http://192.168.10.33:8409/iptv/logos/9E53350F1677532E2056966D61ABF90B.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Classic
+http://192.168.10.33:8409/iptv/channel/4.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="5.etv" channel-id="44gbP0HAzkC-driddTHXng" channel-number="5" CUID="44gbP0HAzkC-driddTHXng" tvg-chno="5" tvg-name="REDiTV Play" tvg-logo="http://192.168.10.33:8409/iptv/logos/3814089B27F3577F788594CB282C4147.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Play
+http://192.168.10.33:8409/iptv/channel/5.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="6.etv" channel-id="mgsUuJchPkilBIoqy_S6nA" channel-number="6" CUID="mgsUuJchPkilBIoqy_S6nA" tvg-chno="6" tvg-name="REDiTV Show" tvg-logo="http://192.168.10.33:8409/iptv/logos/C0ACE48035F0E69538EABDAFFE369105.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Show
+http://192.168.10.33:8409/iptv/channel/6.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="7.etv" channel-id="cuv6ANcSCEq4P1VJ3rXKvw" channel-number="7" CUID="cuv6ANcSCEq4P1VJ3rXKvw" tvg-chno="7" tvg-name="REDiTV Docu" tvg-logo="http://192.168.10.33:8409/iptv/logos/8D92455360B76A5A6065501F971FF3A0.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Docu
+http://192.168.10.33:8409/iptv/channel/7.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="8.etv" channel-id="6uz9NukVq0iVjin0gVCzfQ" channel-number="8" CUID="6uz9NukVq0iVjin0gVCzfQ" tvg-chno="8" tvg-name="REDiTV Comedy" tvg-logo="http://192.168.10.33:8409/iptv/logos/0D2C00568B0EB2D17F03CB768CB4697F.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Comedy
+http://192.168.10.33:8409/iptv/channel/8.m3u8?mode=segmenter
+#EXTINF:0 tvg-id="9.etv" channel-id="ABtwHFSpNUeHeN_NB5JzTw" channel-number="9" CUID="ABtwHFSpNUeHeN_NB5JzTw" tvg-chno="9" tvg-name="REDiTV Family Time" tvg-logo="http://192.168.10.33:8409/iptv/logos/34C49A0793773E73456F352FA09E156F.jpg" group-title="REDiTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", REDiTV Family Time
+http://192.168.10.33:8409/iptv/channel/9.m3u8?mode=segmenter
