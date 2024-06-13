@@ -1,3 +1,6 @@
+#!/bin/bash
+
+PYCMD=$(cat <<EOF
 import subprocess
 import os
 
@@ -34,3 +37,9 @@ commands = [
 
 for command in commands:
     subprocess.run(ssh_cmd + command, shell=True)
+EOF
+)
+
+TEMP_SCRIPT=$(mktemp)
+echo "$PYCMD" > "$TEMP_SCRIPT"
+python3 "$TEMP_SCRIPT"
