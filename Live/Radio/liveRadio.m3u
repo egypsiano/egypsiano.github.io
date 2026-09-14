@@ -39,7 +39,6 @@ https://ais-sa1.streamon.fm/7246_48k.aac
 http://192.168.1.33:34400/stream/42720456e5da7b1cea699bfc8484252d
 #EXTINF:0 channelID="x-ID.7366" tvg-chno="8322" tvg-name="Radio Fann Jordan Studio (1080p) [Not 24/7]" tvg-id="8322" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan Studio (1080p) [Not 24/7]
 http://192.168.1.33:34400/stream/5f3e084f608fc376f0d362c2bbe8a6f7
-
 #EXTINF:-1 tvg-logo="" group-title="Radio",[US] 1043 MYfm
 https://stream.revma.ihrhls.com/zc173
 #EXTINF:-1 tvg-logo="" group-title="Radio",[US] 107.5 KISS FM
